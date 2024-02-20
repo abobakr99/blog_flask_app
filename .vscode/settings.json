@@ -1,0 +1,9 @@
+{
+// Change the font size of the text editor 
+"editor.fontWeight": "bold",
+"editor.fontVariations": true,
+"editor.fontSize": 28,
+"editor.fontLigatures": false,
+// Change the font size of the side menu
+//"workbench.sideBar.fontSize": 14  
+}
